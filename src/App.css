@@ -1,0 +1,15 @@
+.app {
+    margin-left: auto;
+    margin-right: auto;
+    /* align-items: center; */
+    text-align: center;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 317px;
+    background-color: #1A1B21;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
